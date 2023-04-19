@@ -21,6 +21,8 @@ public class StudentRestController {
         theStudents.add( new Student("first2", "lastName2"));
         theStudents.add( new Student("first3", "lastName3"));
         
+        //the return statement internally does a data binding and convert the 
+        //Java POJO into a JSON file as you can see in localhost:8080/api/students
         return theStudents;
     }
 }
