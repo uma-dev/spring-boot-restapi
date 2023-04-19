@@ -1,6 +1,6 @@
 package com.umadev.restapi.entity;
 
-
+//POJO class Student
 public class Student {
 
     private String firstName;
