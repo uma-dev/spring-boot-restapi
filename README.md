@@ -1,4 +1,4 @@
+
 # Spring Boot REST API
 
-Simple REST API with full CRUD support. Checkout the branches to use the Architecture that fits with your application:  
-- 
+Simple REST API with __create__ support and __Global Exception Handler__.
